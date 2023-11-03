@@ -17,12 +17,16 @@ dependencies:
   cupertino_icons: ^1.0.2
   # Stacked management
   stacked: ^3.4.1+1
+  # navigation
+  auto_route: ^7.8.4
+  stacked_services: ^1.3.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
   flutter_lints: ^2.0.0
+  build_runner: ^2.4.6
 
 flutter:
 
